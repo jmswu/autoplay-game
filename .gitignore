@@ -1,0 +1,4 @@
+*.log
+screen_*.png
+
+__pycache__/
